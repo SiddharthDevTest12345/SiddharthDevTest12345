@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @SiddharthDevTest12345
+- 👋 Hi, I’m @Siddharth
 - 👀 Interest on Software/Mobile App development and testing
